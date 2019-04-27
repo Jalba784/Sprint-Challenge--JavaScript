@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ec34922-c1be-4a97-93bf-52c04637efc9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenges/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/challenges/functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges/prototypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/challenges/prototypes.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="362">
-                <caret line="88" column="4" lean-forward="true" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
+              <first_editor relative-caret-position="454">
+                <caret line="92" column="25" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
               </first_editor>
               <second_editor />
             </state>
@@ -29,10 +29,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/challenges/functions.js">
+        <entry file="file://$PROJECT_DIR$/challenges/prototypes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
-              <caret line="38" column="99" selection-start-line="38" selection-start-column="99" selection-end-line="38" selection-end-column="99" />
+            <state relative-caret-position="324">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,8 +49,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/challenges/objects-arrays.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/challenges/functions.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/challenges/prototypes.js" />
       </list>
     </option>
   </component>
@@ -94,15 +98,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.functions.js">
+  <component name="RunManager" selected="Node.js.prototypes.js">
     <configuration name="functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/challenges/functions.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="objects-arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/challenges/objects-arrays.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="prototypes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/challenges/prototypes.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.prototypes.js" />
         <item itemvalue="Node.js.functions.js" />
         <item itemvalue="Node.js.objects-arrays.js" />
       </list>
@@ -118,12 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556319549064</updated>
-      <workItem from="1556319556303" duration="4132000" />
+      <workItem from="1556319556303" duration="4447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4132000" />
+    <option name="totallyTimeSpent" value="4447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
@@ -152,16 +160,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="362">
-            <caret line="88" column="4" lean-forward="true" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/challenges/objects-arrays.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -169,10 +167,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="454">
+            <caret line="92" column="25" selection-start-line="92" selection-start-column="25" selection-end-line="92" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/challenges/functions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="874">
           <caret line="38" column="99" selection-start-line="38" selection-start-column="99" selection-end-line="38" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenges/prototypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
