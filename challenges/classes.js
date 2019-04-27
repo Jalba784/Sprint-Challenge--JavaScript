@@ -26,7 +26,7 @@ class CuboidMaker {
 }
 
 //Cube constructor
-class Cube extends CuboidMaker{
+class CubeMaker extends CuboidMaker{
     constructor(props) {
         super(props);
     }
@@ -48,7 +48,7 @@ const cuboid = new CuboidMaker({
     height: 5
 });
 
-const cube = new Cube({
+const cube = new CubeMaker({
     length: 5,
     width: 5,
     height: 5
